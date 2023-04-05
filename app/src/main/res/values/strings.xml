@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="txt_welcome">TABUNGAN EMAS ?</string>
+    <string name="btn_start">LET\'S START</string>
+    <!--    <string name="btn_start">LET`S START</string>-->
+    <string name="welcome">WELCOME</string>
+    <string name="txtUsername">Username</string>
+    <string name="txtPassword">Password</string>
+    <string name="login">Login</string>
+    <string name="dontHaveAcc">Don\'t you have account?</string>
+    <string name="signUp">Sign Up</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtRePass">Re-Password</string>
+    <string name="forgot">Forgot Your Password?</string>
+    <string name="txtAddress">Address</string>
+    <string name="txtPhone">Phone Number</string>
+    <string name="signIn">Sign In</string>
+    <string name="haveAcc">Already have an account?</string>
+</resources>
